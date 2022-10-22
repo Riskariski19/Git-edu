@@ -1,3 +1,4 @@
 Belajar Git
 - melakukan branch
 - melakukan merge
+- melakukan remote
